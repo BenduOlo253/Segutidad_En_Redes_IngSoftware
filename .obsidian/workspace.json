@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "5a703d4ec741a823",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6c34091a14623ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c10995b44dd20e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78e92011686164e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "88d68b010c2d957b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c32e95dda4facbed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "98c5f88a5ccb1e81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aaf698966d419ce2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed2934df316d40a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "15affed3ea300415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3bccf959f0a769b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01-Lets Warm Up"
+            }
+          },
+          {
+            "id": "17b6c82e2d1d7ce1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01-Lets Warm Up"
+            }
+          },
+          {
+            "id": "ec54a1d8fea1c578",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "caa26dc10c34973c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-Lets Warm Up"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8c10995b44dd20e5",
+  "lastOpenFiles": [
+    "README.md",
+    "Plantilla.md",
+    "Untitled.md",
+    "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+    "Untitled.base",
+    "picoCTF/01 - General Skills/wheres a netCat.md",
+    "create a link.md",
+    "picoCTF/01 - General Skills",
+    "picoCTF/01 - General Skills.md",
+    "Untitled 1.md",
+    "picoCTF",
+    "Welcome.md",
+    "Untitled.canvas"
+  ]
+}
