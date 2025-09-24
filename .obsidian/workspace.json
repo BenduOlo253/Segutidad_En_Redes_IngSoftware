@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c34091a14623ed",
+        "id": "e4cafeaadc1ef77c",
         "type": "tabs",
         "children": [
           {
-            "id": "8c10995b44dd20e5",
+            "id": "bab6253b571b6319",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,18 +165,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "8c10995b44dd20e5",
+  "active": "bab6253b571b6319",
   "lastOpenFiles": [
-    "README.md",
+    "picoCTF/01 - General Skills/10-Glitch Cat.md",
     "Plantilla.md",
-    "Untitled.md",
+    "picoCTF/01 - General Skills/08-plumbing.md",
+    "picoCTF/01 - General Skills/09-nice cat.md",
+    "picoCTF/01 - General Skills/07-what's a net cat.md",
+    "picoCTF/01 - General Skills/06-Obedient cat.md",
+    "picoCTF/01 - General Skills/05-First Grep.md",
+    "picoCTF/01 - General Skills/04-Bases.md",
+    "picoCTF/01 - General Skills/03-Warmed Up.md",
+    "picoCTF/01 - General Skills/02-2Warm.md",
+    "j.md",
     "picoCTF/01 - General Skills/01-Lets Warm Up.md",
+    "picoCTF/01 - General Skills/Plantilla 1.md",
+    "README.md",
     "Untitled.base",
-    "picoCTF/01 - General Skills/wheres a netCat.md",
     "create a link.md",
     "picoCTF/01 - General Skills",
     "picoCTF/01 - General Skills.md",
-    "Untitled 1.md",
     "picoCTF",
     "Welcome.md",
     "Untitled.canvas"
